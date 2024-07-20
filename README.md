@@ -11,7 +11,7 @@ Original article
 
 Notebook to deploy and use Langfuse on Google Cloud
 
-- [LLMOps with Langfuse on Google Cloud Notebook](LLMOps%20with Langfuse%20on%20Google%20Cloud.ipynb)
+- [LLMOps with Langfuse on Google Cloud Notebook](./LLMOps%20with%20Langfuse%20on%20Google%20Cloud.ipynb)
 
 ## Overview
 
