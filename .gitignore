@@ -1,0 +1,74 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# venv
+venv
+.venv
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.eggs/
+dist/
+build/
+develop-eggs/
+EGG-INFO/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Django
+local_settings.py
+db.sqlite3
+
+# Flask
+instance/
+
+# pytest
+.pytest_cache/
+nosetests.xml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+*.spec
+build/
+dist/
+
+# Celery
+celerybeat-schedule
+celeryd-schedule
+
+# Coverage reports
+coverage.xml
+.coverage
+
+# Django
+*.sqlite3
+*.db
+
+# Flask
+instance/
+
+# PyCharm
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Other
+*.log
+*.pyc
+*.pyo
+*.swp
+*~
+.DS_Store
