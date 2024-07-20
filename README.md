@@ -1,8 +1,17 @@
-# SQL Talk: Natural Language to BigQuery with Gemini's Function Calling
+# SQL Talk: Natural Language to BigQuery with Gemini's Function Calling PLUS Langfuse for LLM Tracing
 
 |           |                                                     |
 | --------- | --------------------------------------------------- |
 | Author(s) | [Kristopher Overholt](https://github.com/koverholt) |
+
+Original article
+
+- [sql-talk-app github](https://github.com/GoogleCloudPlatform/generative-ai/tree/main/gemini/function-calling/sql-talk-app)
+- Google Cloud Community [Building an AI-powered BigQuery Data Exploration App using Function Calling in Gemini](https://www.googlecloudcommunity.com/gc/Community-Blogs/Building-an-AI-powered-BigQuery-Data-Exploration-App-using/ba-p/716757)
+
+Notebook to deploy and use Langfuse on Google Cloud
+
+- [LLMOps with Langfuse on Google Cloud Notebook](LLMOps%20with Langfuse%20on%20Google%20Cloud.ipynb)
 
 ## Overview
 
